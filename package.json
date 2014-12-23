@@ -1,0 +1,27 @@
+{
+  "name": "focus-templates",
+  "version": "0.0.1",
+  "description": "All tags for focus",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KleeGroup/focus-templates.git"
+  },
+  "keywords": [
+    "Handlebars",
+    "templates",
+    "tags"
+  ],
+  "author": "Olivier Boitel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KleeGroup/focus-templates/issues"
+  },
+  "homepage": "https://github.com/KleeGroup/focus-templates",
+  "dependencies": {
+    "browserify": "^7.0.3"
+  }
+}
